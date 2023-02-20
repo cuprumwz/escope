@@ -1,0 +1,9 @@
+* chief-----lkt100a1----主体部分
+* panel-----lkt100a2----面板，接插件接口
+* human-----lkt100a3----人机交互接口
+* annex-----lkt100a4----扩展功能板
+* ats_xscope-板子外部测试接口
+* ats_lkt100c_iscope-lkt100c板子内部测试接口
+* ats_lkt100p_iscope-lkt100p板子内部测试接口
+* ats_lkt100h_iscope-lkt100h板子内部测试接口
+* ats_lkt100a_iscope-lkt100a板子内部测试接口
